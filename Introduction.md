@@ -14,3 +14,17 @@
 
 
 
+***
+企業營運與銷售資料 (ERP/CRM)
+位置： 地端 SQL Server、Oracle，或雲端 Salesforce、Dynamics 365。
+說明： 包含客戶訂單、營收、庫存與歷史銷售紀錄。透過 Power BI 能快速建立銷售業績儀表板，追蹤 KPI 與營收成長趨勢。
+數位行銷與網站流量 (Web Analytics)
+位置： Google Analytics (GA4)、Adobe Analytics 或社群平台 API。
+說明： 涵蓋網站點擊流、使用者輪廓、廣告投放轉換率。協助行銷團隊評估 ROI 並優化投放策略。
+財務與人事報表 (Finance & HR)
+位置： 企業內部的 Excel 活頁簿、SharePoint 清單或 SAP 系統。
+說明： 包含預算執行率、損益表、員工離職率與出勤統計。將繁雜的表格視覺化，方便管理階層一目了然。
+物聯網與生產線數據 (IoT & Manufacturing)
+位置： Azure Azure SQL、Azure Data Lake 或 MQTT 串流。
+說明： 生產線機台的溫度、壓力與產出速度。可用於即時監控設備健康度與進行預測性維護。
+***
